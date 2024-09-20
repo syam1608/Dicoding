@@ -1,7 +1,16 @@
+nav a {
+font-size: 18px;
+font-weight: 400;
+text-decoration: none;
+;}
+nav a:hover{
+  font-weight: bold;
+}
 .fancy {
     color: rgb(214, 240, 238);
     font-weight: bold;
     text-shadow: 4px 4px 3px #77f;
+    text-align: center;
   }
   #special {
     background-color: rgb(27, 8, 107);
@@ -10,18 +19,12 @@ h2,
 h3 {
     color: rgba(13, 74, 187, 0.877);
 }
-nav a {
-  font-size: 18px;
-  font-weight: 400;
-  
-}
-nav a:hover {
-  font-weight: bold;
-}
-.profile header {
+.supri {
   text-align: center;
 }
-  
+tr {
+  text-align: center;
+}
   /* <a> element yang menerapkan href attribute */
   /* a[href] {
     color: blue;
@@ -48,6 +51,7 @@ nav a:hover {
   } */
   body {
     font-family: 'Quicksand', sans-serif;
+   
   }
    
   h2, h3 {
@@ -58,4 +62,5 @@ nav a:hover {
     padding: 20px;
     color: white;
     background-color: #010e11;
+    text-align: center;
   }
