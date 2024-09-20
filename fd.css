@@ -1,0 +1,110 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-variant: small-caps;
+}
+.normal {
+    font-weight: normal;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .bolder {
+    font-weight: bolder;
+  }
+  
+  .lighter {
+    font-weight: lighter;
+  }
+  
+  .fw100 {
+    font-weight: 100;
+  }
+  
+  .fw200 {
+    font-weight: 200;
+  }
+  
+  .fw300 {
+    font-weight: 300;
+  }
+  
+  .fw400 {
+    font-weight: 400;
+  }
+  
+  .fw500 {
+    font-weight: 500;
+  }
+  
+  .fw600 {
+    font-weight: 600;
+  }
+  
+  .fw700 {
+    font-weight: 700;
+  }
+  
+  .fw800 {
+    font-weight: 800;
+  }
+  
+  .fw900 {
+    font-weight: 900;
+  }
+  .normal {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .oblique {
+    font-style: oblique;
+  }
+  main {
+    width: 80%;
+    margin: 0 auto;
+  
+    border: 1px solid black;
+  }
+  
+  p {
+    border: 1px solid black;
+  }
+  
+  .tl-left {
+    text-align: left;
+  }
+  
+  .tl-right {
+    text-align: right;
+  }
+  
+  .tl-center {
+    text-align: center;
+  }
+  
+  .tl-justify {
+    text-align: justify;
+  }
+  
+  
+/* Line height untuk mengatur ujung atau dasar paragraf
+.ln2 {
+  line-height: 2;
+}
+
+.ln200 {
+  line-height: 200%;
+}
+
+.ln2em {
+  line-height: 2em;
+}
+ */
+    

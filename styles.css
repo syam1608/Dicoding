@@ -1,0 +1,61 @@
+.fancy {
+    color: rgb(214, 240, 238);
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+  }
+  #special {
+    background-color: rgb(27, 8, 107);
+  }
+h2,
+h3 {
+    color: rgba(13, 74, 187, 0.877);
+}
+nav a {
+  font-size: 18px;
+  font-weight: 400;
+  
+}
+nav a:hover {
+  font-weight: bold;
+}
+.profile header {
+  text-align: center;
+}
+  
+  /* <a> element yang menerapkan href attribute */
+  /* a[href] {
+    color: blue;
+  } */
+  
+  /* <a> element yang menerapkan nilai pada href dengan awalan "#" */
+  /* a[href^='#'] {
+    background-color: rgb(73, 209, 180);
+  } */
+  
+  /* <a> element yang menerapkan nilai pada href yang mengandung teks "example" */
+  /* a[href*='example'] {
+    background-color: silver;
+  }
+   */
+  /* <a> element yang menerapkan nilai pada href yang mengandung teks "insensitive" tidak mementingkan huruf kapital*/
+  /* a[href*='insensitive' i] {
+    color: cyan;
+  } */
+  
+  /* <a> element yang menerapkan nilai pada href dengan akhiran ".org" */
+  /* a[href$='.org'] {
+    color: red;
+  } */
+  body {
+    font-family: 'Quicksand', sans-serif;
+  }
+   
+  h2, h3 {
+    color: #00a2c6
+  }
+   
+  footer {
+    padding: 20px;
+    color: white;
+    background-color: #010e11;
+  }
